@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e9c7cc789f9e21999db4ed5333ea13a0c69c332">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4edc008912002e2538bb79b64ffe55b3fc78f3f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_5096cdd0a7dad0ff9c46780dbbcd3bee1c9d6cb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="057100ee0b65eda5c24cf48ad6f76de0d3d225e2">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_65355f3ca8348bb025bb7743479ceb42cde81cea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_314088747703de96b991323ed604c84894a34c5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_2d4bbfd491339ed75e76d608b56e5aaf22a47181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_d8b87fcc321c898d38132f12bbb3845fc302bb7e/classes.dex" />
+    </item>
+
+</items>

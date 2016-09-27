@@ -1,0 +1,7 @@
+#Tue Sep 27 23:40:25 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4edc008912002e2538bb79b64ffe55b3fc78f3f7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_65355f3ca8348bb025bb7743479ceb42cde81cea/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_65355f3ca8348bb025bb7743479ceb42cde81cea
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4edc008912002e2538bb79b64ffe55b3fc78f3f7/classes.dex
